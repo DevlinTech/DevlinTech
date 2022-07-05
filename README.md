@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DevlinTech
+- 👀 I’m interested in C# and DotNet.
+- 🌱 I’m currently learning C#.
+- 📫 How to reach me: devlinb.net@gmail.com
